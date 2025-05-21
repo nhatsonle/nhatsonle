@@ -51,9 +51,9 @@
 
 # 📈 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatsonle&show_icons=true&theme=github_dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatsonle&layout=compact&theme=github_dark)
 
 ---
 
