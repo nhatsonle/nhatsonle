@@ -50,5 +50,5 @@
 
 📍 Hanoi, Vietnam  
 🌐 [Your Portfolio or Blog]  
-📧 [nhatsonle2309@gmail.com]  
+📧 nhatsonle2309@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/your-link)
