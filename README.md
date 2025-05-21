@@ -59,6 +59,6 @@
 
 # 📫 Contact Me
 
-📍 Hanoi, Vietnam    
-📧 nhatsonle2309@gmail.com
+📍 Hanoi, Vietnam
+📧 nhatsonle2309@gmail.com     
 🔗 [LinkedIn](https://www.linkedin.com/in/nh%E1%BA%ADt-s%C6%A1n-l%C3%AA-b15185265/)
