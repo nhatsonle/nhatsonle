@@ -2,7 +2,7 @@
 
 - 🎓 I'm Lê Nhật Sơn, a student of HEDSPI Program (Vietnam - Japan IT program) at Hanoi University Of Science and Technology.
 - 💼 Motivated developer with a passion for solving technical challenges.
-- 🎯 Currently focused on Machine Learning Engineer + NLP.
+- 🎯 Currently focused on Machine Learning Engineering + LLMs/LMMs (Large Language Models / Large Multimodal Models).
 - 🛠️ In my free time, I enjoy building software side projects.
 
 # 🧠 Skills
